@@ -44,8 +44,8 @@ This project uses the **Kaggle Titanic dataset**:
 
 ## 📈 Model Performance
 
-- Accuracy: ~80–83% on training data
-- Accuracy: ~80–82% on test data
+- F1 Score (macro): ~82% on training data
+- F1 Score (macro): ~81% on test data
 - Models used: BaggingClassifier + SGDClassifier
 
 ---
