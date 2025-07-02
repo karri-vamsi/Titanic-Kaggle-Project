@@ -20,7 +20,7 @@ This project uses the **Kaggle Titanic dataset**:
 - Python
 - Pandas, NumPy
 - Matplotlib
-- Scikit-learn (Random Forest, etc.)
+- Scikit-learn (BaggingClassifier + SGDClassifier, etc.)
 
 ## 🚀 How to Run
 
@@ -44,9 +44,9 @@ This project uses the **Kaggle Titanic dataset**:
 
 ## 📈 Model Performance
 
-- Accuracy: ~80–85% on training data
-- Accuracy: ~70–80% on test data
-- Models used: Random Forest Classifier
+- Accuracy: ~80–83% on training data
+- Accuracy: ~80–82% on test data
+- Models used: BaggingClassifier + SGDClassifier
 
 ---
 
